@@ -9,7 +9,7 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 ---
 ### Lenguajes de programación
 
-![Android]([https://developer.android.com/images/brand/Android_Robot.png](https://freebiesupply.com/logos/kotlin-logo-2/))
+!(https://share.google/vzCHcaCfXuDIjMRGx) 
 
 
 - Java
