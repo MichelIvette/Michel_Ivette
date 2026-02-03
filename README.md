@@ -9,8 +9,8 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 ---
 ### Lenguajes de programación
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/692de9ad-16d3-4495-90d6-04a13555c6ef" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5fa89ddb-1827-4f8f-801f-373abb40cf1c" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/692de9ad-16d3-4495-90d6-04a13555c6ef" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/5fa89ddb-1827-4f8f-801f-373abb40cf1c" />
 <img width="50" alt="image" src="https://github.com/user-attachments/assets/264217e9-fbda-464e-b7b1-02964c83e957" />
 
 ### 🧰 Frameworks y Tecnologías
