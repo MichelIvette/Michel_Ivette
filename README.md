@@ -7,9 +7,10 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 ---
 ## Stack Tecnológico
 ---
-**Lenguajes de programación**
+### Lenguajes de programación
 
-<img src="https://img.shields.io/badge/Android-Studio-green](https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-2-logo.png">
+![Android]([https://developer.android.com/images/brand/Android_Robot.png](https://freebiesupply.com/logos/kotlin-logo-2/))
+
 
 - Java
 - Kotlin
