@@ -1,2 +1,51 @@
-# Michel_Ivette
-Mi perfil
+
+<h1 align="center">¡Hola! Soy Michel Ivette</h1>
+
+<p align="center">Estudiante de Ciencias de la Informática (6º semestre) | IPN - UPIICSA</p>
+Estudiante de Ciencias de la Informática con interés en el desarrollo de aplicaciones web, móviles y bases de datos. Cuento con formación en programación, análisis de requerimientos y pruebas de software. Actualmente busco integrarme a equipos de trabajo donde pueda seguir aprendiendo, aportar valor y crecer profesionalmente.
+
+---
+## Stack Tecnológico
+---
+**Lenguajes de programación**
+
+<img src="[https://img.shields.io/badge/Android-Studio-green](https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-2-logo.png)">
+
+- Java
+- Kotlin
+- Python
+- PHP
+- JavaScript
+
+### 🧰 Frameworks y Tecnologías
+- Android (Android Studio)
+- React
+- Node.js
+- Firebase
+- MySQL / SQL Server
+
+### 📊 Otras habilidades
+- Git y control de versiones
+- Desarrollo frontend y backend
+- Resolución de problemas lógicos
+- Trabajo en equipo y colaboración
+
+---
+
+## 📌 Proyectos destacados
+
+🔗 **Proyecto1** – Descripción breve de lo que hace.  
+📌 Repositorio: https://github.com/TU_USUARIO/Proyecto1
+
+🔗 **Proyecto2** – Otra app interesante o herramienta.  
+📌 Repositorio: https://github.com/TU_USUARIO/Proyecto2
+
+🔗 **Proyecto3** – Algo relacionado con Android o sistemas.  
+📌 Repositorio: https://github.com/TU_USUARIO/Proyecto3
+
+---
+
+
+
+funcional.
+
