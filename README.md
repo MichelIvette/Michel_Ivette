@@ -9,26 +9,22 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 ---
 ### Lenguajes de programación
 
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/692de9ad-16d3-4495-90d6-04a13555c6ef" />
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/5fa89ddb-1827-4f8f-801f-373abb40cf1c" />
 <img width="50" alt="image" src="https://github.com/user-attachments/assets/264217e9-fbda-464e-b7b1-02964c83e957" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/cf4f74d4-b315-4704-b2c9-f14ccfc94f8b" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/70f108ef-e0d4-4894-b33a-96e030fddda4" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/048b74e4-617b-448e-b97e-d884d81403b8" />
 
-### 🧰 Frameworks y Tecnologías
-- Android (Android Studio)
-- React
-- Node.js
-- Firebase
-- MySQL / SQL Server
+### Frameworks y Tecnologías
 
-### 📊 Otras habilidades
-- Git y control de versiones
-- Desarrollo frontend y backend
-- Resolución de problemas lógicos
-- Trabajo en equipo y colaboración
+<img width="50"  alt="image" src="https://github.com/user-attachments/assets/c1d20dbc-8f40-4281-a0e6-d15c3ef41122" />
+<img width="50"  alt="image" src="https://github.com/user-attachments/assets/6ae500e6-6e91-4a99-9ca3-08f010b4da4a" />
+<img width="50"  alt="image" src="https://github.com/user-attachments/assets/b60da850-2032-4ac6-b1b4-262cb280d24f" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/1dfaeae1-1eef-4776-8760-71e843d88e7c" />
+
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
 🔗 **Proyecto1** – Descripción breve de lo que hace.  
 📌 Repositorio: https://github.com/TU_USUARIO/Proyecto1
