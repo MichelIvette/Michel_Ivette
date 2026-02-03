@@ -5,7 +5,7 @@
 Estudiante de Ciencias de la Informática con interés en el desarrollo de aplicaciones web, móviles y bases de datos. Cuento con formación en programación, análisis de requerimientos y pruebas de software. Actualmente busco integrarme a equipos de trabajo donde pueda seguir aprendiendo, aportar valor y desarrollarme profesionalmente.
 
 ---
-## Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 
 ### Lenguajes de programación
@@ -43,9 +43,4 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 🔗 **Proyecto3** – Algo relacionado con Android o sistemas.  
 📌 Repositorio: https://github.com/TU_USUARIO/Proyecto3
 
----
-
-
-
-funcional.
 
