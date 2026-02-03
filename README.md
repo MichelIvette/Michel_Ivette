@@ -9,7 +9,8 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 ---
 ### Lenguajes de programación
 
-!(https://share.google/vzCHcaCfXuDIjMRGx) 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/692de9ad-16d3-4495-90d6-04a13555c6ef" />
+
 
 
 - Java
