@@ -9,7 +9,7 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 ---
 **Lenguajes de programación**
 
-<img src="[https://img.shields.io/badge/Android-Studio-green](https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-2-logo.png)">
+<img src="https://img.shields.io/badge/Android-Studio-green](https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-2-logo.png">
 
 - Java
 - Kotlin
