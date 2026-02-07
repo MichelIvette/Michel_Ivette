@@ -35,7 +35,7 @@ Estudiante de Ciencias de la Informática con interés en el desarrollo de aplic
 ## Proyectos destacados
 
 🔗 **Proyecto1** – Descripción breve de lo que hace.  
-📌 Repositorio: https://github.com/TU_USUARIO/Proyecto1
+📌 Repositorio: https://github.com/MichelIvette/StartGo
 
 🔗 **Proyecto2** – Otra app interesante o herramienta.  
 📌 Repositorio: https://github.com/TU_USUARIO/Proyecto2
